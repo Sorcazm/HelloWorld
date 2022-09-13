@@ -1,7 +1,9 @@
 html{
-    background: blue;
+    background: yellow;
 }
 body{
-    background: yellow;
+    height: 50vh;
+    background: blue;
     margin: 0 auto;
+    
 }
